@@ -1,6 +1,6 @@
 0. have java installed on your machine (jre 1.7 or better for best results).
 
-1. extract the contents of PandemicSolitaire.rar into any directory (e.g. C:\Users\???\Desktop). this includes the .jar file and /external_files.
+1. extract the contents of PandemicSolitaire.zip into any directory (e.g. C:\Users\???\Desktop). this includes the .jar file and /external_files.
 
 2. run a command prompt (cmd.exe on windows).
 
